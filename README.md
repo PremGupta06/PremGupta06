@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1503858430/vector/website-software-development-concept-web-design-site-and-mobile-app-on-laptop-testing-on.jpg?s=612x612&w=0&k=20&c=k8ckKsgOrPPxohAA_ywg2VXZzdCPptEbOlleRV8Kb7c=" height="400px" width="1000vh">
+
 
 <h1 align="center">Hi 👋, I'm Prem Gupta</h1>
 
