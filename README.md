@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premgupta06" alt="premgupta06" /></a> </p>
 
-- 🔭 I’m currently Pursuing **Bachelor’s in Computer Applications**
+- 🔭 I’m currently in Second Year **Bachelor’s in Computer Applications**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Something Crazy**
 
 - 🤝 Seeking guidance in **Backend Development**
 
-- 💬 Ask me about **Html, Tailwind CSS**
+- 💬 Ask me about **Frontend Part**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
