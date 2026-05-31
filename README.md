@@ -4,7 +4,7 @@
 <!--  SECTION 1 — HERO BANNER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="50%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 2 — TYPING HEADER                                     -->
@@ -112,22 +112,6 @@ const premGupta = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 7 — STREAK STATS                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-<img src="https://streak-stats.demolab.com?user=PremGupta06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 8 — ACTIVITY GRAPH                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -142,22 +126,7 @@ const premGupta = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 9 — TROPHY WALL                                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=PremGupta06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 10 — WORK EXPERIENCE                                  -->
+ EXPERIENCE                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 💼 Experience
@@ -210,31 +179,6 @@ const premGupta = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 12 — ACHIEVEMENTS                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 🏅 Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|:---:|:---:|:---:|
-| 🎓 | **BCA Enrolled** | Pursuing Bachelor of Computer Applications — 2nd Year |
-| ⭐ | **GitHub Stars** | Earned stars across public repositories for portfolio work |
-| 🌐 | **14 Repositories** | Built and published **14 public projects** on GitHub |
-| 🤝 | **Active Networker** | **6 followers** and growing developer community presence |
-| 🖥️ | **Full-Stack Projects** | Shipped end-to-end projects using MERN stack independently |
-| 🎨 | **3D Web Developer** | Explored advanced 3D frontend with Blender & Three.js |
-| 📌 | **[Lorem Achievement]** | Lorem ipsum dolor sit amet — **X number**, consectetur adipiscing |
-| 🏆 | **[Lorem Achievement]** | Sed do eiusmod tempor incididunt — ranked **Top N** / awarded |
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 13 — EDUCATION + CURRENTLY LEARNING + FOOTER         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -250,19 +194,6 @@ const premGupta = {
 | **10th (SSC / Matriculation)** | [School Name] | [Year] | [X%] |
 
 </div>
-
----
-
-### 🌱 Currently Learning
-
-```
-🧱 Backend Development     →  REST APIs · Express.js · MVC Architecture · Middleware
-🗄️ Databases               →  MongoDB Design Patterns · Mongoose ORM · Aggregation Pipelines
-⚛️  Advanced React          →  State Management (Redux) · React Query · Performance Optimization
-🔐 Auth & Security         →  JWT · OAuth 2.0 · Session Management · HTTPS Best Practices
-🚢 DevOps Basics           →  Git Branching · Deployment (Vercel / Render) · CI/CD Intro
-🤝 Open Source             →  Contributing to Projects · Reading Codebases · PR Workflows
-```
 
 ---
 
