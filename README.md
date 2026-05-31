@@ -4,7 +4,7 @@
 <!--  SECTION 1 — HERO BANNER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 2 — TYPING HEADER                                     -->
@@ -20,25 +20,25 @@
 <!--  SECTION 3 — CODE-BLOCK ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```javascript
 const premGupta = {
   name        : "Prem Gupta",
   location    : "India 🇮🇳",
-  degree      : "Bachelor of Computer Applications (BCA) — 2nd Year",
+  degree      : "Bachelor of Computer Applications (BCA) — 3rd Year",
 
   stack       : [
-    "HTML5", "CSS3", "JavaScript",
+    "HTML5", "CSS3", "JavaScript","Linux",
     "React.js", "Node.js", "Express.js",
-    "MongoDB", "Tailwind CSS", "Bootstrap",
-    "Python", "Java", "C",
-    "Figma", "Git", "Blender"
+    "MongoDB", "Tailwind CSS", "Wireshark",
+    "Python", "Java", "C", "burp suite", 
+    "Figma", "Git", "Blender", "nmap"
   ],
 
   currentlyLearning : [
-    "Backend Architecture & REST APIs",
-    "Database Design (MongoDB)",
+    "Security Approach",
+    "Web Security",
     "System Design Fundamentals",
     "Open Source Contribution"
   ],
@@ -57,7 +57,7 @@ const premGupta = {
 <!--  SECTION 4 — TECH BADGES                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div>
 
 ### 🛠️ Tech Stack
 
@@ -90,25 +90,6 @@ const premGupta = {
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 5 + 6 — GITHUB STATS & TOP LANGUAGES                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/PremGupta06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PremGupta06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/PremGupta06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremGupta06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
 
 </div>
 
