@@ -166,10 +166,15 @@ const premGupta = {
 <div align="center">
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
+
 | [**SOC MultiStage Attack Detection Lab**](https://github.com/PremGupta06/SOC-MultiStage-Attack-Detection-Lab) 🔐 | `Kali Linux` `Wireshark` `Splunk` `Nmap` `Hydra` | Full SOC lab simulating Nmap recon → SYN stealth scan → SSH brute-force; detected via Wireshark packet analysis & Splunk SIEM log correlation |
+
 | [**SOC Home Lab — SSH BruteForce Detection**](https://github.com/PremGupta06/SOC-Home-Lab-SSH-BruteForce-Detection) 🛡️ | `Kali Linux` `Wireshark` `Hydra` `OpenSSH` `Ubuntu` | Simulated SSH brute-force attack Kali → Ubuntu victim; captured attack traffic & investigated auth.log to identify malicious login patterns |
+
 | [**ApexTools**](https://apex-tools-zeta.vercel.app/) 🛠️ | `JavaScript` `HTML` `CSS` `Vercel` | Free all-in-one student productivity suite — CGPA calculator, study timer, password generator, JSON formatter & more |
+
 | [**SpeedyCheck**](https://speedy-check-olive.vercel.app/) ⚡ | `JavaScript` `AI` `HTML` `CSS` `Vercel` | AI-powered web performance auditor — analyzes & reports site speed metrics in real-time |
+
 | [**Portfolio**](https://github.com/PremGupta06/Portfolio) ⭐ | `JavaScript` `HTML` `CSS` | Personal developer portfolio — **2 stars**, showcasing frontend projects with smooth UI/UX |
  
 </div>
