@@ -111,8 +111,10 @@ const premGupta = {
 
 </div>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 8 — ACTIVITY GRAPH                                    -->
+<!--  SECTION 5 — ACTIVITY GRAPH                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -126,62 +128,54 @@ const premGupta = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 10 — EXPERIENCE                                       -->
+<!--  SECTION 6 — EXPERIENCE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 💼 Experience
 
 <details>
-<summary><b>🏢 [Company Name] — [Role Title] &nbsp;|&nbsp; [Month Year] – [Month Year] &nbsp;|&nbsp; [City, India]</b></summary>
+<summary><b>🏢 Skillora — Frontend Developer intern &nbsp;|&nbsp; May 2026 – July 2026 &nbsp;|&nbsp; Mumbai, India</b></summary>
 
 <br/>
 
 > `Lorem Ipsum` `Dolor Sit` `Amet` `Consectetur` `Adipiscing`
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, achieving **X% improvement** in lorem ipsum metrics
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua with **N+ users** impacted
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco with **X feature** shipped
-- Duis aute irure dolor in reprehenderit in voluptate velit esse **cillum dolore**
+- Developed and enhanced responsive web interfaces using HTML, CSS, JavaScript, and modern frontend technologies. Collaborated on real-world projects, improved UI/UX design, implemented interactive features, and gained hands-on experience in web development and problem-solving.
 
 </details>
 
 <details>
-<summary><b>🧑‍💻 [Company / Project Name] — [Role Title] &nbsp;|&nbsp; [Month Year] – [Month Year] &nbsp;|&nbsp; Remote / [City]</b></summary>
+<summary><b>🧑‍💻 InAmigos Foundation — Web Design & Research Intern &nbsp;|&nbsp; May 2026 – May 2026 (15 days) &nbsp;|&nbsp; Remote / Mumbai</b></summary>
 
 <br/>
 
 > `Lorem Ipsum` `Dolor Sit` `Amet` `Consectetur`
 
-- Lorem ipsum dolor sit amet, built and deployed **X feature** using Lorem and Ipsum
-- Consectetur adipiscing elit resulting in **Y% reduction** in lorem time
-- Sed ut perspiciatis unde omnis iste natus error sit voluptatem, collaborated with **N team members**
-- Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+- Conducted NGO website analysis, identified UI/UX improvements, designed website feature concepts using Figma, and contributed ideas to enhance user engagement, volunteer participation, and digital impact.
 
 </details>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 11 — FEATURED PROJECTS                                -->
+<!--  SECTION 6 — FEATURED PROJECTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🚀 Featured Projects
 
 <div align="center">
-
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
+| [**SOC MultiStage Attack Detection Lab**](https://github.com/PremGupta06/SOC-MultiStage-Attack-Detection-Lab) 🔐 | `Kali Linux` `Wireshark` `Splunk` `Nmap` `Hydra` | Full SOC lab simulating Nmap recon → SYN stealth scan → SSH brute-force; detected via Wireshark packet analysis & Splunk SIEM log correlation |
+| [**SOC Home Lab — SSH BruteForce Detection**](https://github.com/PremGupta06/SOC-Home-Lab-SSH-BruteForce-Detection) 🛡️ | `Kali Linux` `Wireshark` `Hydra` `OpenSSH` `Ubuntu` | Simulated SSH brute-force attack Kali → Ubuntu victim; captured attack traffic & investigated auth.log to identify malicious login patterns |
+| [**ApexTools**](https://apex-tools-zeta.vercel.app/) 🛠️ | `JavaScript` `HTML` `CSS` `Vercel` | Free all-in-one student productivity suite — CGPA calculator, study timer, password generator, JSON formatter & more |
+| [**SpeedyCheck**](https://speedy-check-olive.vercel.app/) ⚡ | `JavaScript` `AI` `HTML` `CSS` `Vercel` | AI-powered web performance auditor — analyzes & reports site speed metrics in real-time |
 | [**Portfolio**](https://github.com/PremGupta06/Portfolio) ⭐ | `JavaScript` `HTML` `CSS` | Personal developer portfolio — **2 stars**, showcasing frontend projects with smooth UI/UX |
-| [**3D Web Frontend**](https://github.com/PremGupta06/3D-web-Frontend) | `JavaScript` `Three.js` `CSS` | Immersive 3D web experience built with modern frontend techniques |
-| [**Joke Generator**](https://github.com/PremGupta06/Joke-Generator) | `CSS` `JavaScript` `API` | Fun joke generator consuming a public API — responsive & animated UI |
-| [**Text-to-Speech Converter**](https://github.com/PremGupta06/Text-to-speech-converter) | `CSS` `JavaScript` `Web Speech API` | Browser-native TTS converter with clean, minimal interface |
-| **[SOC Project 1 — Name]** 🔐 | `Wireshark` `Nmap` `Kali Linux` | [Short description — e.g. Network traffic analysis lab detecting suspicious packets & port scans] |
-| **[SOC Project 2 — Name]** 🛡️ | `Burp Suite` `Cisco Packet Tracer` `Python` | [Short description — e.g. Vulnerability testing simulation with detailed incident report] |
-
+ 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  SECTION 13 — EDUCATION + CURRENTLY LEARNING + FOOTER         -->
+<!--  SECTION 7 — EDUCATION + CURRENTLY LEARNING + FOOTER         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🎓 Education
@@ -190,9 +184,8 @@ const premGupta = {
 
 | Degree | Institution | Year | Score |
 |:------:|:-----------:|:----:|:-----:|
-| **Bachelor of Computer Applications (BCA)** | [University Name] | 2023 – 2026 | [X.X CGPA / X%] |
-| **12th (HSC / Intermediate)** | [School / College Name] | [Year] | [X%] |
-| **10th (SSC / Matriculation)** | [School Name] | [Year] | [X%] |
+| **Bachelor of Computer Applications (BCA)** | Somaiya Vidyvihar University | 2024 – 2027 | Sem 4 - 9.04 |
+| **12th (HSC / Intermediate)** | CHM Collage | 2024 | [76%] |
 
 </div>
 
@@ -217,7 +210,7 @@ const premGupta = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-gupta-616489335)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/premgupta153362)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PremGupta06)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prem06@somaiya.edu)
 
 </div>
 
@@ -227,7 +220,7 @@ const premGupta = {
 
 <img src="https://komarev.com/ghpvc/?username=PremGupta06&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+"Turning Curiosity into Cyber Defense."
 
 </div>
 
