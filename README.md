@@ -4,13 +4,13 @@
 <!--  SECTION 1 — HERO BANNER                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  SECTION 2 — TYPING HEADER                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Prem+Gupta+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+React+%2B+Node.js;BCA+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Open+to+Collaborate+%26+Learn+Together+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Prem+Gupta+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+React+%2B+Node.js;Cybersecurity+Enthusiast+%7C+SOC+Analyst+%F0%9F%94%90;BCA+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Open+to+Collaborate+%26+Learn+Together+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -29,16 +29,17 @@ const premGupta = {
   degree      : "Bachelor of Computer Applications (BCA) — 3rd Year",
 
   stack       : [
-    "HTML5", "CSS3", "JavaScript","Linux",
+    "HTML5", "CSS3", "JavaScript", "Linux",
     "React.js", "Node.js", "Express.js",
     "MongoDB", "Tailwind CSS", "Wireshark",
-    "Python", "Java", "C", "burp suite", 
-    "Figma", "Git", "Blender", "nmap"
+    "Python", "Java", "C", "Burp Suite",
+    "Figma", "Git", "Blender", "Nmap",
+    "Kali Linux", "Cisco Packet Tracer"
   ],
 
   currentlyLearning : [
-    "Security Approach",
-    "Web Security",
+    "Security Approach & Web Security",
+    "Network Traffic Analysis",
     "System Design Fundamentals",
     "Open Source Contribution"
   ],
@@ -82,6 +83,23 @@ const premGupta = {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
+**🔐 Cybersecurity & Networking**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Networking Protocols**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0052CC?style=flat-square&logo=cloudflare&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6B35?style=flat-square&logo=cloudflare&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-005C84?style=flat-square&logo=http&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-6A0DAD?style=flat-square&logo=cisco&logoColor=white)
+
 **Tools & Design**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -107,7 +125,8 @@ const premGupta = {
 
 ---
 
- EXPERIENCE                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SECTION 10 — EXPERIENCE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 💼 Experience
@@ -156,7 +175,8 @@ const premGupta = {
 | [**3D Web Frontend**](https://github.com/PremGupta06/3D-web-Frontend) | `JavaScript` `Three.js` `CSS` | Immersive 3D web experience built with modern frontend techniques |
 | [**Joke Generator**](https://github.com/PremGupta06/Joke-Generator) | `CSS` `JavaScript` `API` | Fun joke generator consuming a public API — responsive & animated UI |
 | [**Text-to-Speech Converter**](https://github.com/PremGupta06/Text-to-speech-converter) | `CSS` `JavaScript` `Web Speech API` | Browser-native TTS converter with clean, minimal interface |
-| **[Lorem Ipsum Project]** | `React` `Node.js` `MongoDB` | Lorem ipsum — **X users**, **Y% metric**, lorem dolor sit amet |
+| **[SOC Project 1 — Name]** 🔐 | `Wireshark` `Nmap` `Kali Linux` | [Short description — e.g. Network traffic analysis lab detecting suspicious packets & port scans] |
+| **[SOC Project 2 — Name]** 🛡️ | `Burp Suite` `Cisco Packet Tracer` `Python` | [Short description — e.g. Vulnerability testing simulation with detailed incident report] |
 
 </div>
 
@@ -175,6 +195,18 @@ const premGupta = {
 | **10th (SSC / Matriculation)** | [School Name] | [Year] | [X%] |
 
 </div>
+
+---
+
+### 🌱 Currently Learning
+
+```
+🔐 Web Security          →  OWASP Top 10 · SQL Injection · XSS · CSRF · Auth Bypass
+📡 Network Traffic       →  Wireshark Filters · Packet Analysis · Intrusion Detection
+🛡️  SOC & Blue Team      →  Log Analysis · Incident Response · SIEM Basics
+🧱 System Design         →  Scalability · Load Balancing · Caching · Microservices
+🤝 Open Source           →  Contributing to Projects · Reading Codebases · PR Workflows
+```
 
 ---
 
