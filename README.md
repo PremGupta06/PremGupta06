@@ -138,7 +138,7 @@ const premGupta = {
 
 <br/>
 
-> `Lorem Ipsum` `Dolor Sit` `Amet` `Consectetur` `Adipiscing`
+> `Frontend Design` `Web Design` `Responsivness` `User Interface` 
 
 - Developed and enhanced responsive web interfaces using HTML, CSS, JavaScript, and modern frontend technologies. Collaborated on real-world projects, improved UI/UX design, implemented interactive features, and gained hands-on experience in web development and problem-solving.
 
@@ -149,7 +149,7 @@ const premGupta = {
 
 <br/>
 
-> `Lorem Ipsum` `Dolor Sit` `Amet` `Consectetur`
+> `Web Design` `UI-UX` `Mobile Responsvie` 
 
 - Conducted NGO website analysis, identified UI/UX improvements, designed website feature concepts using Figma, and contributed ideas to enhance user engagement, volunteer participation, and digital impact.
 
@@ -163,9 +163,7 @@ const premGupta = {
 
 ### 🚀 Featured Projects
 
-<div align="center">
-| Project | Stack | Highlights |
-|:-------:|:-----:|:----------:|
+<div>
 
 | [**SOC MultiStage Attack Detection Lab**](https://github.com/PremGupta06/SOC-MultiStage-Attack-Detection-Lab) 🔐 | `Kali Linux` `Wireshark` `Splunk` `Nmap` `Hydra` | Full SOC lab simulating Nmap recon → SYN stealth scan → SSH brute-force; detected via Wireshark packet analysis & Splunk SIEM log correlation |
 
