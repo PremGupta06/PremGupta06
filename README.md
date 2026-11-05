@@ -28,15 +28,6 @@ const premGupta = {
   location    : "India 🇮🇳",
   degree      : "Bachelor of Computer Applications (BCA) — 3rd Year",
 
-  stack       : [
-    "HTML5", "CSS3", "JavaScript", "Linux",
-    "React.js", "Node.js", "Express.js",
-    "MongoDB", "Tailwind CSS", "Wireshark",
-    "Python", "Java", "C", "Burp Suite",
-    "Figma", "Git", "Blender", "Nmap",
-    "Kali Linux", "Cisco Packet Tracer"
-  ],
-
   currentlyLearning : [
     "Security Approach & Web Security",
     "Network Traffic Analysis",
